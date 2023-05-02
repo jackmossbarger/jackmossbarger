@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi i'm Jack!
+I'm a new grad looking forward to keep learning!
 
 <!--
 **jackmossbarger/jackmossbarger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
